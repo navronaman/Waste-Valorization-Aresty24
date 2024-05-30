@@ -1,0 +1,15 @@
+[submodule "thermosteam"]
+	path = thermosteam
+	url = https://github.com/BioSTEAMDevelopmentGroup/thermosteam.git
+[submodule "biosteam"]
+	path = biosteam
+	url = https://github.com/BioSTEAMDevelopmentGroup/biosteam.git
+[submodule "Bioindustrial-Park"]
+	path = Bioindustrial-Park
+	url = https://github.com/BioSTEAMDevelopmentGroup/Bioindustrial-Park.git
+[submodule "QSDsan"]
+	path = QSDsan
+	url = https://github.com/QSD-Group/QSDsan.git
+[submodule "EXPOsan"]
+	path = EXPOsan
+	url = https://github.com/QSD-Group/EXPOsan.git
